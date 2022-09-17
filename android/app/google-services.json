@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "555974284451",
+    "project_id": "betting-a15c3",
+    "storage_bucket": "betting-a15c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555974284451:android:e569657105f496e6789b16",
+        "android_client_info": {
+          "package_name": "com.example.beting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555974284451-fva9amv8d9tcshqnaneh1meh9c2r6i3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyQGVfriiQd19Ndp5Uc4SbF2wO4gUK-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555974284451-fva9amv8d9tcshqnaneh1meh9c2r6i3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555974284451-l9r2tgge6m4c7pmk1h9e1pqskvr2ljjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bettingAppAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555974284451:android:f6570a3611368eb4789b16",
+        "android_client_info": {
+          "package_name": "com.example.betting_app_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555974284451-fva9amv8d9tcshqnaneh1meh9c2r6i3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeyQGVfriiQd19Ndp5Uc4SbF2wO4gUK-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555974284451-fva9amv8d9tcshqnaneh1meh9c2r6i3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "555974284451-l9r2tgge6m4c7pmk1h9e1pqskvr2ljjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bettingAppAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
